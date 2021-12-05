@@ -1,0 +1,8 @@
+name "aoc2021"
+description "Advent of Code 2021"
+authors "Reimer Behrends"
+copyright "Copyright © 2021, Reimer Behrends"
+license "BSL"
+importPaths "src" "lib"
+sourcePaths "src"
+targetPath "bin"
